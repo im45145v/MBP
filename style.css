@@ -937,8 +937,8 @@ a.school-list {
 .container {
   min-height: 100vh;
   width: 100%;
-  margin-top: 80px;
-  margin-bottom: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -962,6 +962,7 @@ a.school-list {
 .timeline ul li:last-child {
   margin-bottom: 0;
 }
+
 .timeline-content h1 {
   font-family: "open sans", sans-serif !important;
 
