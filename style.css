@@ -858,7 +858,7 @@ a.school-list {
   z-index: 0;
   border-radius: 10px;
   font-size: x-large;
-  font-family: "Dancing Script", cursive;
+  font-family: "sans-serif", cursive;
 }
 
 .glow-on-hover:before {
